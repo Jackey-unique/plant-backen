@@ -27,8 +27,8 @@ def list_greenhouses():
         "code": 200,
         "message": "success",
         "data": [
-            {"id": 1, "name": "一号棚", "area": 1200, "address": "北京市朝阳区", "boxNo": "BOX001", "status": 1, "createTime": "2024-01-01 10:00:00"},
-            {"id": 2, "name": "二号棚", "area": 950, "address": "北京市海淀区", "boxNo": "BOX002", "status": 1, "createTime": "2024-01-02 10:00:00"},
+            {"id": 1, "name": "一号棚", "area": 1200, "address": "陕西省西安市", "boxNo": "BOX001", "status": 1, "createTime": "2024-01-01 10:00:00"},
+            {"id": 2, "name": "二号棚", "area": 950, "address": "上海市", "boxNo": "BOX002", "status": 1, "createTime": "2024-01-02 10:00:00"},
         ],
     }
 
